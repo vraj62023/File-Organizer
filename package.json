@@ -1,9 +1,9 @@
 {
-  "name": "@vraj62023/File-organizer",
+  "name": "@vraj62023/file-organizer",
   "version": "1.0.0",
   "main": "organize.js",
   "bin": {
-    "organize": "./organize.js"
+    "organize": "organize.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
