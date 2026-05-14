@@ -1,5 +1,5 @@
 {
-  "name": "organizertest",
+  "name": "@vraj62023/File-organizer",
   "version": "1.0.0",
   "main": "organize.js",
   "bin": {
